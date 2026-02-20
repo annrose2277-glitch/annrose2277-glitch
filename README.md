@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src = "https://github.com/user-attachments/assets/1ec2a4a3-96e5-4a95-8d99-1cafec07b325" width = 200px height = 600px>
+
+
 <!--
 **annrose2277-glitch/annrose2277-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
